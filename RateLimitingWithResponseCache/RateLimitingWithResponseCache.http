@@ -1,0 +1,6 @@
+@RateLimitingWithResponseCache_HostAddress = http://localhost:5270
+
+GET {{RateLimitingWithResponseCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

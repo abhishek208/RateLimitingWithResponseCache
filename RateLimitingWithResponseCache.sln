@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateLimitingWithResponseCache", "RateLimitingWithResponseCache\RateLimitingWithResponseCache.csproj", "{62878BC6-17E9-45D8-A6D7-7C1A9A671623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62878BC6-17E9-45D8-A6D7-7C1A9A671623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62878BC6-17E9-45D8-A6D7-7C1A9A671623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62878BC6-17E9-45D8-A6D7-7C1A9A671623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62878BC6-17E9-45D8-A6D7-7C1A9A671623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C0B53F7-9E81-46F8-AE60-3E9BAC2AEC4F}
+	EndGlobalSection
+EndGlobal
